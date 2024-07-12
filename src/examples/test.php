@@ -1,7 +1,7 @@
 <?php
 require "vendor/autoload.php";
 
-use thealgoslingers\PersonalizedContent
+use thealgoslingers\PersonalizedContent;
 
 // Usage example
 $api_key = 'your_api_key_here';
