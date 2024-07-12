@@ -1,5 +1,5 @@
 <?php
-require '../class.PersonalizedContent.php';
+require '../PersonalizedContent.php';
 
 ## require "path/to/vendor/autoload.php";
 
